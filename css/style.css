@@ -1,0 +1,35 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#primer-titulo{
+    text-align: left;
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    border: 20px;
+    margin: 20px;
+}
+
+.segunda-palabra{
+    color: aqua;
+}
+
+h2{
+    text-align: center;
+    background-color:blueviolet;
+    color: white;
+    font-style: italic;
+    padding: 20px;
+    border: 20px;
+    margin: 20px;
+}
+
+h3{
+    text-align: right;
+    background-color:aquamarine;
+    color: blueviolet;
+    text-decoration: underline;
+    padding: 20px;
+    border: 20px;
+    margin: 20px;
+}
